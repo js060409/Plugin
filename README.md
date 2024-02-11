@@ -8,3 +8,5 @@
     - path 에서 %JAVA_HOME% , %MAVEN_HOME% 추가
       
 3. cmd 에서 mvn -version으로 버전 확인하기
+
+https://drive.google.com/drive/folders/15mFqPJPEOTx1LUCPKbfUX3Oo8x1ig1YA
